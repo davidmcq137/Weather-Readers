@@ -1,0 +1,20 @@
+City code:
+
+{
+    "id": 5123118,
+    "name": "Katonah",
+    "country": "US",
+    "coord": {
+      "lon": -73.68541,
+      "lat": 41.25898
+    }
+
+{
+    "id": 5145253,
+    "name": "Yorktown Heights",
+    "country": "US",
+    "coord": {
+      "lon": -73.777634,
+      "lat": 41.270931
+    }
+
